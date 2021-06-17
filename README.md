@@ -1,4 +1,4 @@
-arzy-github-banner-3.png![arzy-github-banner-3](https://user-images.githubusercontent.com/75591341/122323159-a75a7f00-cef4-11eb-80f1-86c92875b016.png)
+![arzy-github-banner-3](https://user-images.githubusercontent.com/75591341/122323159-a75a7f00-cef4-11eb-80f1-86c92875b016.png)
 
 
 
