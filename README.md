@@ -1,6 +1,4 @@
-[![arzy-github-banner-4](https://user-images.githubusercontent.com/75591341/122323462-1d5ee600-cef5-11eb-8eb6-6ae7ca4e3cc3.png)](https://www.geraldarzola.com/)
-
-
+[![arzy-github-banner-5](https://user-images.githubusercontent.com/75591341/122324048-1dabb100-cef6-11eb-8e4c-feeb572dfd71.png)](https://www.geraldarzola.com/)
 
 
 
