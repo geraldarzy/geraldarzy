@@ -1,4 +1,5 @@
-### Hi there 👋
+![arzy-github-banner](https://user-images.githubusercontent.com/75591341/122320719-b3dcd880-cef0-11eb-8dda-6a46a0d7755a.png)
+
 
 <!--
 **geraldarzy/geraldarzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
