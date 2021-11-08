@@ -1,5 +1,5 @@
 
-<a href="https://www.geraldarzola.com/" target="_blank"><img src='https://user-images.githubusercontent.com/75591341/122324443-c6f2a700-cef6-11eb-90fd-58e869db2c7f.png'/></a>
+<!-- <a href="" target="_blank"><img src='https://user-images.githubusercontent.com/75591341/122324443-c6f2a700-cef6-11eb-90fd-58e869db2c7f.png'/></a> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geraldarzy&hide=contribs,stars,issues&show_icons=true&theme=cobalt&count_private=true)
 
